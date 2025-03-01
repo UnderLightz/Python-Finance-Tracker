@@ -1,17 +1,10 @@
-# Python-Finance-Tracker
-If you have trouble doing your finances, use this program to help you in your calculations, categorization, and organization
-
-Start the program by using the FinanceTracker.py file
-
-FT_Entry.py will allow you to add data by using the FinanceTracker.py file
-
-Use the example .csv file to test out the program
-
-
-# Project Title:
-Finance Tracker
+# Project Title: MoneyMoves
 
 # Description:
+If you have trouble doing your finances, use this program to help you in your calculations, categorization, and organization.
+Start the program by using the FinanceTracker.py file.
+FT_Entry.py will allow you to add data by using the FinanceTracker.py file.
+Use the example .csv file to test out the program.
 Developed a finance tracking program using Python. The tool helps users monitor and categorize their income and expenses, offering insights through data visualization and reports.
 
 # Technologies Used:
